@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FFFFFF;}
+	.st2{display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st3{display:inline;fill:#0094D2;}
+	.st4{fill:#A5C020;}
+	.st5{fill:#B8D426;}
+	.st6{fill:#0094D2;}
+	.st7{fill:#00AEEE;}
+	.st8{fill:#FFFFFF;}
+	.st9{opacity:0.3;fill:#666666;}
+	.st10{fill:#E66700;}
+	.st11{fill:#FF8B0B;}
+	.st12{fill:#999999;}
+	.st13{fill:#BBBBBB;}
+	.st14{display:inline;fill:#00AEEE;}
+	.st15{display:inline;fill:#B8D426;}
+	.st16{display:inline;fill:#A5C020;}
+	.st17{display:inline;fill:#D7D7D7;}
+	.st18{display:inline;fill:#FF8B0B;}
+	.st19{display:inline;fill:#E66700;}
+</style>
+<g id="src" class="st0">
+</g>
+<g id="sketch" class="st0">
+</g>
+<g id="curseur">
+	<g>
+		<rect class="st8" width="16" height="16"/>
+		<g>
+			<path class="st12" d="M15.25,8c0,2.05381-1.62297,3.71875-3.625,3.71875h-7.25C2.37297,11.71875,0.75,10.05381,0.75,8
+				s1.62297-3.71875,3.625-3.71875h7.25C13.62703,4.28125,15.25,5.94619,15.25,8z"/>
+			<path class="st13" d="M15.5,8.5c0,1.933-1.567,3.5-3.5,3.5H5c-1.933,0-3.5-1.567-3.5-3.5S3.067,5,5,5h7
+				C13.933,5,15.5,6.567,15.5,8.5z"/>
+			<path class="st6" d="M11.5,3.5h-7C2.01472,3.5,0,5.51472,0,8s2.01472,4.5,4.5,4.5h7c2.48528,0,4.5-2.01472,4.5-4.5
+				S13.98528,3.5,11.5,3.5z M15,8c0,1.933-1.567,3.5-3.5,3.5h-7C2.567,11.5,1,9.933,1,8s1.567-3.5,3.5-3.5h7
+				C13.433,4.5,15,6.067,15,8z"/>
+		</g>
+		<g>
+			<circle class="st7" cx="4.5" cy="8" r="4.5"/>
+			<circle class="st8" cx="4.5" cy="8" r="2.53125"/>
+			<path class="st9" d="M7.68198,4.81802l-6.36396,6.36396C2.13236,11.99632,3.25736,12.5,4.5,12.5C6.98528,12.5,9,10.48528,9,8
+				C9,6.75736,8.49632,5.63236,7.68198,4.81802z"/>
+		</g>
+	</g>
+</g>
+<g id="curseur_ombre">
+</g>
+<g id="couleurs" class="st0">
+</g>
+</svg>

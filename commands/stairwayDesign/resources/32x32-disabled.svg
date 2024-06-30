@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px"
+	 height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g id="Plus">
+	<polygon fill="#CCCCCC" stroke="#AAAAAA" stroke-width="0.69643" stroke-miterlimit="10" points="31,22.83008 26.125,22.83008 
+		26.125,17.95508 22.875,17.95508 22.875,22.83008 18,22.83008 18,26.08008 22.875,26.08008 22.875,30.95508 26.125,30.95508 
+		26.125,26.08008 31,26.08008 	"/>
+</g>
+<g id="Walkline">
+	<g id="ARC_7_">
+		<path fill="none" stroke="#666666" stroke-linejoin="round" stroke-miterlimit="10" d="M9,30V16.01367
+			C9,12.14063,12.14063,9,16.01367,9H30"/>
+	</g>
+</g>
+<g id="Steps">
+	<g id="LINE_13_">
+		<polygon fill="none" stroke="#DDDDDD" stroke-miterlimit="10" points="2,14.45117 16,19.55469 16,22.43555 2,20.23438 		"/>
+	</g>
+	<g id="LINE_12_">
+		<polygon fill="none" stroke="#DDDDDD" stroke-miterlimit="10" points="20.23633,2 22.43555,16 19.55566,16 14.45215,2 		"/>
+	</g>
+	<polygon fill="none" stroke="#DDDDDD" stroke-miterlimit="10" points="2,7.41016 16,17.09961 16,16 17.09961,16 7.41211,2 2,2 	"/>
+	<polygon fill="none" stroke="#DDDDDD" stroke-miterlimit="10" points="25.85938,16 25.47656,2 30,2 30,16 	"/>
+	<polygon fill="none" stroke="#DDDDDD" stroke-miterlimit="10" points="16,25.85938 16,30 2,30 2,25.47461 	"/>
+</g>
+<g id="Limons">
+	<g id="LINE_5_">
+		<path fill="none" stroke="#AAAAAA" stroke-linecap="round" stroke-miterlimit="10" d="M2,30h14V16.01367
+			C16,16.00586,16.00586,16,16.01367,16H30V2H2.01367L2,2.01367V30z"/>
+	</g>
+	<g id="Layer_3">
+	</g>
+</g>
+<g id="Dot">
+	
+		<rect x="28" y="-0.00049" fill="#BBBBBB" stroke="#FFFFFF" stroke-width="0.66751" stroke-miterlimit="10" width="4" height="4.00049"/>
+	<rect x="28" y="13.95508" fill="#BBBBBB" stroke="#FFFFFF" stroke-width="0.66751" stroke-miterlimit="10" width="4" height="4"/>
+	<rect x="14" y="13.95508" fill="#BBBBBB" stroke="#FFFFFF" stroke-width="0.66751" stroke-miterlimit="10" width="4" height="4"/>
+	<rect x="14" y="28" fill="#BBBBBB" stroke="#FFFFFF" stroke-width="0.66751" stroke-miterlimit="10" width="4" height="4"/>
+	<rect y="28" fill="#BBBBBB" stroke="#FFFFFF" stroke-width="0.66751" stroke-miterlimit="10" width="4" height="4"/>
+	<rect y="-0.00049" fill="#BBBBBB" stroke="#FFFFFF" stroke-width="0.66751" stroke-miterlimit="10" width="4" height="4.00049"/>
+</g>
+<g id="Walk_point">
+</g>
+</svg>

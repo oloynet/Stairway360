@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"16edaf26-d707-48d4-8c54-4550966875c4",
+	"author":	"Olivier LOYNET",
+	"description":	{
+		"":	"Stairway generator"
+	},
+	"version":	"0.1",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
